@@ -1,0 +1,27 @@
+.container{
+  text-align: center;
+}
+
+.CurrentPlayer{
+  display:inline-block;
+}
+.Instructions{
+  display:inline-block;
+}
+.Board{
+  margin: auto;
+}
+td{
+  height: 80;
+  width: 80;
+  background-color:grey;
+  display : inline-block ;
+  height : 80px ;
+  width : 80px ;
+  border-radius : 50% ;
+  border : 5px solid #000 ;
+  margin : 2px ;
+  color : #fff ;
+  line-height : 50px;
+  text-align : center;
+}
