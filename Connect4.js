@@ -86,8 +86,8 @@ function colorfill(item){
       $(".CurrentPlayer").text("");
       $(".Instructions").text("");
       $("h2").text(PlayerWon+" has Won ! Refresh your Browser to restart.");
-      $(".Board").fadeOut(1800);
-      $(".Board").fadeIn(1800);
+      $(".Board").fadeOut(1200);
+      $(".Board").fadeIn(1200);
     }
     // console.log(clicked);
   })
